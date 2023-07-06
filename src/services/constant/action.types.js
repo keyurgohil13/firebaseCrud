@@ -1,0 +1,4 @@
+export const ADD_BOOK_SUCCESS = "ADD_BOOK_SUCCESS";
+export const ADD_BOOK_FAIL = "ADD_BOOK_FAIL";
+export const SINGLE_RECORD = "SINGLE_RECORD";
+export const UPDATE_BOOK = "UPDATE_BOOK";
